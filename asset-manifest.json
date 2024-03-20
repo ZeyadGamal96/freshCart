@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/freshCart/static/css/main.2f9bc0f9.css",
-    "main.js": "/freshCart/static/js/main.610e183e.js",
+    "main.js": "/freshCart/static/js/main.eee764a3.js",
     "static/js/453.4297e0f3.chunk.js": "/freshCart/static/js/453.4297e0f3.chunk.js",
     "static/css/384.31d6cfe0.chunk.css": "/freshCart/static/css/384.31d6cfe0.chunk.css",
     "static/js/384.1f229efb.chunk.js": "/freshCart/static/js/384.1f229efb.chunk.js",
@@ -45,7 +45,7 @@
     "static/media/slick.woff": "/freshCart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/freshCart/index.html",
     "main.2f9bc0f9.css.map": "/freshCart/static/css/main.2f9bc0f9.css.map",
-    "main.610e183e.js.map": "/freshCart/static/js/main.610e183e.js.map",
+    "main.eee764a3.js.map": "/freshCart/static/js/main.eee764a3.js.map",
     "453.4297e0f3.chunk.js.map": "/freshCart/static/js/453.4297e0f3.chunk.js.map",
     "384.1f229efb.chunk.js.map": "/freshCart/static/js/384.1f229efb.chunk.js.map",
     "790.6c75bf6f.chunk.js.map": "/freshCart/static/js/790.6c75bf6f.chunk.js.map",
@@ -62,6 +62,6 @@
   },
   "entrypoints": [
     "static/css/main.2f9bc0f9.css",
-    "static/js/main.610e183e.js"
+    "static/js/main.eee764a3.js"
   ]
 }
