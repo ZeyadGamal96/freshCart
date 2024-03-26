@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunke_commerce=self.webpackChunke_commerce||[]).push([[138],{7138:(e,s,c)=>{c.r(s),c.d(s,{default:()=>n});c(5043);var r=c(579);function n(){return(0,r.jsxs)("div",{className:"text-center mt-5 min-vh-100",children:[(0,r.jsx)("div",{children:(0,r.jsx)("h2",{className:"text-main",children:"Thank you for your purchase!"})}),(0,r.jsx)("div",{children:(0,r.jsx)("p",{children:"Your payment has been successfully processed."})})]})}}}]);
-//# sourceMappingURL=138.f7944f26.chunk.js.map
